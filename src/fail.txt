@@ -1,0 +1,11 @@
+Woops,
+
+The jobs failed because we can't download the bidding file from the server.
+
+Please check,
+
+Regards,
+
+Thanks.
+
+MonkeyRunner
