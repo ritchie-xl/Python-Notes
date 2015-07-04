@@ -13,5 +13,6 @@ Welcome to the realster wiki!
     * [Pysftp documentation](http://pysftp.readthedocs.org/en/release_0.2.8/)
 
 #### Exception Handling
+1. [Python Handling Exception](https://wiki.python.org/moin/HandlingExceptions)
  
 
