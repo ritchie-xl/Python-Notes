@@ -14,5 +14,12 @@ Welcome to the realster wiki!
 
 #### Exception Handling
 1. [Python Handling Exception](https://wiki.python.org/moin/HandlingExceptions)
- 
+2. Example:
+```python
+(x,y) = (5,0)
+try:
+   z=x/y
+except ZeroDivisionError:
+   print "divide by zero"
+```
 
