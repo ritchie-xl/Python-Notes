@@ -1,4 +1,8 @@
-Welcome to the realster wiki!
+Welcome to the Python-Notes wiki!
+
+Here are some python programming notes I made when dealing with some interesting situations in programming.
+
+Enjoy!
 
 #### Email
 1. Package: smtplib
