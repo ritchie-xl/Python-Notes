@@ -25,6 +25,9 @@ except ZeroDivisionError:
 
 #### Task Scheduling
 1. Package/Tools: crontab
+2. References:
+   * ［Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+   *  [Crontab QUick-Reference](http://www.adminschoice.com/crontab-quick-reference)
 2. Example:
 ```
 minute(0-59) hour(0-23) day(1-31) month(1-12) weekday(0-6) command
