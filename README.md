@@ -37,7 +37,11 @@ minute(0-59) hour(0-23) day(1-31) month(1-12) weekday(0-6) command
 1. Package/Tool: md5sum or hashlib.md5()
 2. Example:
    * md5sum:
-   ``` echo -n file | md5sum ```
+   ``` 
+   echo -n file | md5sum 
+   ```
    * hashlib.md5():
-   ``` hashlib.md5(file).hexdigest() ```
+   ``` 
+   hashlib.md5(file).hexdigest() 
+   ```
     
