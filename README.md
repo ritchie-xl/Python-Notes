@@ -38,10 +38,10 @@ minute(0-59) hour(0-23) day(1-31) month(1-12) weekday(0-6) command
 2. Example:
    * md5sum:
    ``` 
-   echo -n file | md5sum 
+   md5sum file
    ```
    * hashlib.md5():
    ``` 
-   hashlib.md5(file).hexdigest() 
+   hashlib.md5(open(file,'r').read()).hexdigest() 
    ```
     
