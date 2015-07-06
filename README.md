@@ -26,10 +26,6 @@ except ZeroDivisionError:
 #### Task Scheduling
 1. Package/Tools: crontab
 2. Example:
-`
-* * * * * command
-`
-which means
-`
+```
 minute(0-59) hour(0-23) day(1-31) month(1-12) weekday(0-6) command
-`
+```
