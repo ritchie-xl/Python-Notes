@@ -35,7 +35,9 @@ minute(0-59) hour(0-23) day(1-31) month(1-12) weekday(0-6) command
 
 #### MD5 Check
 1. Package/Tool: md5sum or hashlib.md5()
-2. Example:
+2. References:
+   * [Generating a MD5 for file in Python](http://stackoverflow.com/questions/3431825/generating-a-md5-checksum-of-a-file)
+3. Example:
    * md5sum:
    ``` bash
    md5sum file
