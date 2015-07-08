@@ -50,4 +50,10 @@ minute(0-59) hour(0-23) day(1-31) month(1-12) weekday(0-6) command
    ``` python
    hashlib.md5(open(file,'r').read()).hexdigest() 
    ```
-    
+
+#### PGP Encrption/Decryption
+1. Package/Tool: gnupg
+2. References:
+   * [GnuPG Homepage](https://www.gnupg.org/)
+   * [GnuPG Documentation](https://www.gnupg.org/documentation/manuals/gnupg/)
+   * [Best Guide to PGP On Linux](https://www.deepdotweb.com/2015/02/17/basic-guide-pgp-linux/)
